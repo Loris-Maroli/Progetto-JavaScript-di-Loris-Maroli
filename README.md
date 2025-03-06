@@ -28,7 +28,7 @@ L'interfaccia è responsiva e si adatta a dispositivi di diverse dimensioni, dai
 
 2. Naviga nella cartella del progetto:
     ```bash
-    cd counter-application
+    cd /Progetto-JavaScript
     ```
 
 3. Apri il file `index.html` nel tuo browser:
