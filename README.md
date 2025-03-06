@@ -23,7 +23,7 @@ L'interfaccia è responsiva e si adatta a dispositivi di diverse dimensioni, dai
 
 1. Clona il repository:
     ```bash
-    git clone https://github.com/tuo-username/counter-application.git
+    git clone https://github.com/Loris-Maroli/Progetto-JavaScript-di-Loris-Maroli.git
     ```
 
 2. Naviga nella cartella del progetto:
