@@ -10,7 +10,6 @@ L'interfaccia è responsiva e si adatta a dispositivi di diverse dimensioni, dai
 
 - **Incremento** e **decremento** del contatore tramite pulsanti.
 - Visualizzazione del valore attuale del contatore.
-- Layout responsive per supportare schermi di diverse dimensioni (desktop, tablet e mobile).
 - Animazioni e effetti al passaggio del mouse per migliorare l'interazione.
 
 ## Tecnologie Utilizzate
@@ -51,8 +50,7 @@ Il progetto è organizzato nei seguenti file:
 
 1. All'inizio, il contatore è impostato a `0`.
 2. Cliccando sul pulsante **+**, il valore del contatore aumenta di uno.
-3. Cliccando sul pulsante **-**, il valore del contatore diminuisce di uno, ma non andrà mai sotto `0`.
-4. La pagina è progettata per adattarsi automaticamente a schermi di varie dimensioni grazie alle media queries in **CSS**.
+3. Cliccando sul pulsante **-**, il valore del contatore diminuisce di uno, andando anche sotto lo `0`.
 
 ## Contribuire
 
